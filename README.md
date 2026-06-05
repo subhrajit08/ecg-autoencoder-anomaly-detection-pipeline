@@ -31,7 +31,8 @@ Beat types classified as normal: N, L, R, e, j. Anomaly: V, A, F, /, S, E, J, a,
 
 Both models use min-max normalized anomaly scores and F2-optimized thresholds.
 
-<img width="1785" height="1628" alt="image" src="https://github.com/user-attachments/assets/780dde07-c327-40a2-932f-26c037058445" />
+<img width="1258" height="595" alt="2a551a09-7bee-4c5a-b37e-6d7b19b04f6c112" src="https://github.com/user-attachments/assets/ab87577b-e7e6-4397-8799-0b6fd485f2b0" />
+
 
 
 ---
